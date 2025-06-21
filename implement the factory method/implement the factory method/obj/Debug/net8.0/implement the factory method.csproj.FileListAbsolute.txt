@@ -1,0 +1,14 @@
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\bin\Debug\net8.0\implement the factory method.exe
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\bin\Debug\net8.0\implement the factory method.deps.json
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\bin\Debug\net8.0\implement the factory method.runtimeconfig.json
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\bin\Debug\net8.0\implement the factory method.dll
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\bin\Debug\net8.0\implement the factory method.pdb
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\implement the factory method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\implement the factory method.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\implement the factory method.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\implement the factory method.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\implement the factory method.dll
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\refint\implement the factory method.dll
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\implement the factory method.pdb
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\implement the factory method.genruntimeconfig.cache
+C:\Users\KIIT\source\repos\implement the factory method\implement the factory method\obj\Debug\net8.0\ref\implement the factory method.dll
